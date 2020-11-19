@@ -22,6 +22,8 @@
     * [多项选择](framework/multipleChoice/something.md)
     * [文件上传](framework/upload/something.md)
     * [页面搜索](framework/searchChange/something.md)
+* 特殊组件
+    * [选择器](special/picker/something.md)
 * 个人笔记
     * [git](note/git/git.md)
     * [npm](note/npm/npm.md)
